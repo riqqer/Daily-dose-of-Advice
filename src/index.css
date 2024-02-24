@@ -1,0 +1,15 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root{
+  --primary-text--: hsl(193, 38%, 86%);
+  --primary-accent--: hsl(150, 100%, 66%);
+  --secondary-1--: hsl(217, 19%, 38%);
+  --secondary-2--: hsl(217, 19%, 24%);
+  --secondary-3--: hsl(218, 23%, 16%);
+  --font--: 'Manrope', sans-serif;
+}
+
